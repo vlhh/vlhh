@@ -1,6 +1,6 @@
 ## Hello World! 🌎👋
 
-My name is Vitória, estudante de programação, futuro dev full-stack.
+My name is Vitória, estudante de programação, futura dev full-stack.
 
 ```JavaScript
 function SobreMim() {
