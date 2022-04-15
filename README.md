@@ -1,16 +1,16 @@
-### Hi there 👋
+## Hello World! 🌎👋
 
-<!--
-**vlhh/vlhh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Vitória, estudante de programação, futuro dev full-stack.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```JavaScript
+function SobreMim() {
+ const name = "Vitória Schneider"
+ const age = 18
+ 
+ const area = "Front-end"
+ const future = "Full-stack"
+ 
+ const details = ["Inovadora", "Pesquisadora", "Curiosa"]
+ const languages = ["Java"] 
+}
+```
