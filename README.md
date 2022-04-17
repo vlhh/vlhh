@@ -11,7 +11,7 @@ function SobreMim() {
  const future = "Full-stack"
  
  const details = ["Inovadora", "Pesquisadora", "Curiosa"]
- const languages = ["JavaScript"] 
+ const languages = ["Java"] 
 }
 ```
 
