@@ -11,8 +11,8 @@ function SobreMim() {
  const future = "Full-stack"
  
  const details = ["Inovadora", "Pesquisadora", "Curiosa"]
- const languages = ["Java","JavaScript","Php"] 
- const framework = ["Vue", "Spring"]
+ const languages = ["Java","JavaScript"] 
+ const framework = ["Vue", "Spring Boot"]
 }
 ```
 
