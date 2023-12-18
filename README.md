@@ -5,7 +5,7 @@ My name is Vitória, programming student, future dev full-stack.
 ```JavaScript
 function SobreMim() {
  const name = "Vitória Schneider"
- const age = 19
+ const age = 20
  
  const area = "Front-end"
  const future = "Full-stack"
