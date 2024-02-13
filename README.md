@@ -1,18 +1,17 @@
 ## Hello World! 🌎👋
 
-My name is Vitória, programming student, future dev full-stack.
+My name is Vitória, programming student, dev full-stack.
 
 ```JavaScript
 function SobreMim() {
  const name = "Vitória Schneider"
  const age = 20
  
- const area = "Front-end"
- const future = "Full-stack"
+ const area = "Full-stack"
  
  const details = ["Inovadora", "Pesquisadora", "Curiosa"]
  const languages = ["Java","JavaScript"] 
- const framework = ["Vue", "Spring Boot"]
+ const framework = ["Vue", "Spring Boot", "Angular"]
 }
 ```
 
